@@ -3,7 +3,7 @@
 
 requierments =>
 
-quo, sys, os, colorama, urllib
+quo, sys, os, colorama, urllib, pathlib
 
 # Do not
 open exe file in default terminal, you dont will see colors
