@@ -1,7 +1,7 @@
 # Imagator2.0
 
 
-requierments =>
+requirements =>
 
 quo, sys, os, colorama, urllib, pathlib
 
